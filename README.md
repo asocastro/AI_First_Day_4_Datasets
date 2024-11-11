@@ -1,5 +1,7 @@
 # Patient Health Information Dataset
 
+## Do note that this is just a generated dataset using ChatGPT
+
 ### Dataset Overview
 
 This dataset contains simulated patient health records intended for testing, analysis, or development purposes in healthcare systems. Each record provides a comprehensive overview of a patient’s health metrics, demographics, and care details, including associated healthcare facilities and responsible nursing staff. **Note:** This data is entirely fictional and created for educational or testing purposes only.
